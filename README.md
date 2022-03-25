@@ -38,8 +38,10 @@
 
 ```
 
-
 ### Example Usage
 
-After running the project, it will show the multiple links, each of which to test the axios simulation is working by checking the console, and each link match the subdirectory name.
+After running the project, it will show the multiple links, each of which to test the axios simulation is working by checking the console, and each link match the subdirectory name. 
+
+clone or download the project, run `npm i` to install dependencies, and run `npm run dev` to open the local project on 'http://localhost:8080' to see the project display.
+![avatar](/project-display.png)
 
